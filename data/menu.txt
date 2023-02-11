@@ -1,0 +1,40 @@
+1
+Nasi
+Makanan
+5000
+2
+Ayam Goreng
+Makanan
+8000
+3
+Ayam Bakar
+Makanan
+8000
+4
+Teh Tawar
+Minuman
+4000
+5
+Es Jeruk
+Minuman
+9000
+6
+Es Teh Manis
+Minuman
+6000
+7
+Nasi Goreng
+Makanan
+10000
+8
+Kopi Susu
+Minuman
+8000
+9
+Mie Goreng
+Makanan
+10000
+10
+Air putih
+Minuman
+3000
